@@ -1,0 +1,9 @@
+[package]
+name = "pingora-server"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pingora = "0.2.0"
+tracing = "0.1.40"
+tracing-subscriber = "0.3.18"
